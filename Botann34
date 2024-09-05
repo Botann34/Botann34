@@ -1,0 +1,8 @@
+echo "# Botann34" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk commit" 
+git branch -M main 
+git remote add origin https://github.com/Botann34/Botann34.git
+ git push -u origin main 
+sorgu paneli -commit
